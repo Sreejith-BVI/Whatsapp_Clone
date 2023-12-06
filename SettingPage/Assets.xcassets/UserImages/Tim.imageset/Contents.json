@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "png-clipart-tim-cook-industrial-engineer-and-ceo-of-apple-united-states-tim-cook-industrial-engineer-and-ceo-of-apple-chief-executive-tim-cook-head-united-states.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "png-clipart-tim-cook-industrial-engineer-and-ceo-of-apple-united-states-tim-cook-industrial-engineer-and-ceo-of-apple-chief-executive-tim-cook-head-united-states 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "png-clipart-tim-cook-industrial-engineer-and-ceo-of-apple-united-states-tim-cook-industrial-engineer-and-ceo-of-apple-chief-executive-tim-cook-head-united-states 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

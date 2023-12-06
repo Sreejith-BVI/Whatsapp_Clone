@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "1600w-2PE9qJLmPac.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "1600w-2PE9qJLmPac 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "1600w-2PE9qJLmPac 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
